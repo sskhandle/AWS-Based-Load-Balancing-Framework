@@ -8,7 +8,7 @@
 >message from sqs. S3 to store photos
 
 ##Architecture
-(https://github.com/sskhandle/AWS-Based-Load-Balancing-Framework/blob/master/animato-master/architecture.JPG)
+![drawing](https://github.com/sskhandle/AWS-Based-Load-Balancing-Framework/blob/master/animato-master/architecture.JPG)
 
 ###Files
 
