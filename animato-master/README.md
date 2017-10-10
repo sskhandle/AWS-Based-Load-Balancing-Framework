@@ -7,6 +7,9 @@
 >and worker. size of SQS queue to scale up and down the workers. dynamoDB to avoid duplicate
 >message from sqs. S3 to store photos
 
+##Architecture
+(https://github.com/sskhandle/AWS-Based-Load-Balancing-Framework/blob/master/animato-master/architecture.JPG)
+
 ###Files
 
 * config	give your configration here
